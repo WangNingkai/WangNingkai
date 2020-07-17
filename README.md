@@ -10,7 +10,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** PHP, Go, JavaScript
--  **Hobbies :** Basketball & Music :headphones:
+-  **Hobbies :** Basketball :basketball: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
 
@@ -28,5 +28,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 

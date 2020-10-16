@@ -1,4 +1,4 @@
-###  :man_technologist:  [WangNingkai](https://wangningkai.github.io) ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+###  :man_technologist:  [WangNingkai](https://wangningkai.github.io) ![](https://visitor-badge.glitch.me/badge?page_id=wangningkai.wangningkai)
 
 <br />
 

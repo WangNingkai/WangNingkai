@@ -1,8 +1,10 @@
-###  :man_technologist:  [WangNingkai](https://wangningkai.github.io) ![](https://visitor-badge.glitch.me/badge?page_id=wangningkai.wangningkai)
+###  :man_technologist:  [WangNingkai](https://wangningkai.github.io) 
 
 <br />
 
 👋 Hi, I'm WangNingkai,a passionate self-taught backend developer from China 🚀. 
+
+![](https://profile-counter.glitch.me/wangningkai/count.svg)
 
 [![WangNingkai's github stats](https://github-readme-stats.vercel.app/api?username=wangningkai&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/WangNingkai)
   

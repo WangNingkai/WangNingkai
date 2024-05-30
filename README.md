@@ -4,7 +4,8 @@ I'm WangNingkai,an open source enthusiast from China 🚀.
 This is the place where I opensource stuff and break things :rofl:
 
 
-[![WangNingkai's github stats](https://github-readme-stats.vercel.app/api?username=wangningkai&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/WangNingkai)
+| <a href="https://github.com/shuax">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangningkai&layout=compact&langs_count=8&hide_border=true&role=OWNER,COLLABORATOR" /></a> | <a href="https://github.com/wangningkai">  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=wangningkai&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
   
 **About**
 

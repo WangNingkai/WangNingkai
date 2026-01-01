@@ -3,9 +3,6 @@ I'm WangNingkai,an open source enthusiast from China 🚀.
 
 This is the place where I opensource stuff and break things :rofl:
 
-
-| <a href="https://github.com/shuax">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangningkai&layout=compact&langs_count=8&hide_border=true&role=OWNER,COLLABORATOR" /></a> | <a href="https://github.com/wangningkai">  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=wangningkai&show_icons=true&count_private=true&hide_border=true&role=OWNER,COLLABORATOR" /></a> |
-| ------------- | ------------- |
   
 **About**
 

@@ -32,6 +32,8 @@ This is the place where I opensource stuff and break things :rofl:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat&logo=redis&logoColor=ffffff)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangningkai&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
